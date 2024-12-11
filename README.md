@@ -111,5 +111,9 @@ This will stop all active tunnels and remove their respective PID entries from t
 ## Contributing
 
 Contributions are welcome! Feel free to submit issues or pull requests for bug fixes, features, or improvements.
+
+## TO DO:
+Allow assigned port to be chosen manually instead of being 10000 by default
+Translate to English
 ```
 
